@@ -15,5 +15,5 @@
   - Always apply manifest
 ![Screenshot 2024-01-18 at 11 23 04 PM](https://github.com/adelorenzo-portainer/traefik-crd/assets/81579885/7023b2c2-c185-4e33-a847-657cbcb7b448)
 
-
-
+4) The example will deploy both __traefik__ and __whoami__
+![Screenshot 2024-01-18 at 11 23 33 PM](https://github.com/adelorenzo-portainer/traefik-crd/assets/81579885/ddcf46fd-ffd4-46cc-a229-000ee2454151)
