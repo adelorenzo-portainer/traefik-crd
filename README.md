@@ -1,5 +1,7 @@
 ## Deployment of CRD with Portainer using GitOps
 
+The example below will be based on the reference file https://raw.githubusercontent.com/adelorenzo-portainer/traefik-crd/main/traefik-crd-complete.yaml
+
 1) Select Applications from the Menu on the left ![Screenshot 2024-01-18 at 11 22 22 PM](https://github.com/adelorenzo-portainer/traefik-crd/assets/81579885/32407411-f186-4c78-8856-99fe97fdd3cb)
 
 2) Add the details to the Manifest deployment accordingly:
