@@ -13,8 +13,8 @@ The example below will be based on the reference file https://raw.githubusercont
 ![Screenshot 2024-01-18 at 11 22 45 PM](https://github.com/adelorenzo-portainer/traefik-crd/assets/81579885/d0de83c2-bf28-47aa-8308-59c52230515d)
 
 3) Make sure to enable GitOps updates with:
-  - Mechanism: Webhook
-  - Always apply manifest
+  - Mechanism: Webhook - __make sure to click the COPY button for the webhook before deplying the YAML__
+  - Enable Always apply manifest
 ![Screenshot 2024-01-18 at 11 23 04 PM](https://github.com/adelorenzo-portainer/traefik-crd/assets/81579885/7023b2c2-c185-4e33-a847-657cbcb7b448)
 
 4) The example will deploy both __traefik__ and __whoami__
