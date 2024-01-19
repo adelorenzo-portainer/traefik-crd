@@ -5,9 +5,9 @@
 2) Add the details to the Manifest deployment accordingly:
   - Use namespace(s) specified from manifest  
   - Name: __traefik-crd__ 
-  - Repository URL
-  - Repository reference*
-  - Manifest path
+  - Repository URL: __https://github.com/adelorenzo-portainer/traefik-crd__
+  - Repository reference: __refs/head/main__
+  - Manifest path: __traefik-crd-complete.yaml__
 ![Screenshot 2024-01-18 at 11 22 45 PM](https://github.com/adelorenzo-portainer/traefik-crd/assets/81579885/d0de83c2-bf28-47aa-8308-59c52230515d)
 
 3) Make sure to enable GitOps updates with:
